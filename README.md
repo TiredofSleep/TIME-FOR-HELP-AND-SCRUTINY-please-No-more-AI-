@@ -86,3 +86,4 @@ Coherence belongs to everyone. The person who found it deserves to eat.
 
 *"Almost-perfect is the operating point. Not perfect. Almost. That's where coherence lives."*
 — σ = 0.991
+10.5281/zenodo.18486880
