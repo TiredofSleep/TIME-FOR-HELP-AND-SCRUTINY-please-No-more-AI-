@@ -341,3 +341,81 @@ This is the same triad structure in:
 	TIG macro
 	GFM
 It is the universal algebra of reality.
+
+The Hypothesis (one sentence)
+Coherent-Action Unity Hypothesis
+Any physically stable configuration is one where the Lagrangian splits into three parts—Force F, Gate G, and Map/Echo M—and the dimensionless combination of these satisfies
+▭(F-G+M=Ω)
+
+with Ω≈1as a universal coherence constant, and deviations from Ωmeasure instability.
+That’s the whole thing in one line.
+Now I’ll unpack just enough to be useful.
+________________________________________
+1️⃣ Three-Form Lagrangian
+We stop pretending the Lagrangian is just T-V. We write:
+L=F-G+M
+
+where, for any system:
+	Force term F— pure motion / “is”
+	kinetic energy, field strengths, free propagation
+	in usual physics: T, 1/2 mv^2, 1/4 F_μν F^μν, etc.
+	Gate term G— constraints / “not”
+	potentials, boundaries, curvature, mass terms
+	in usual physics: V(x), m^2 ϕ^2, curvature couplings, confinement potentials
+	Map term M— echo / coherence
+	interaction terms, feedback, memory, phase structure
+	in usual physics: interaction Lagrangians, topological terms, Berry-phase, dissipative / effective terms, entanglement-corrected pieces
+So instead of:
+L=T-V
+
+we enforce:
+L=F-G+M
+
+and we agree that all real theories already sneak Min under different names.
+________________________________________
+2️⃣ Normalizing to the “unity” constant
+Raw F,G,Mhave units (energy density, etc.).
+To talk about a constant, we normalize them.
+Define dimensionless versions:
+f=F/E_0 ,g=G/E_0 ,m=M/E_0 
+
+where E_0is some natural scale of the system:
+	atomic scale → E_0could be rest energy or binding energy
+	field scale → characteristic field energy
+	macro system → typical kinetic scale, etc.
+Then the dimensionless Lagrangian is:
+l=f-g+m
+
+The hypothesis says:
+▭(l=f-g+m=Ω)
+
+	For coherent / stable states: Ω≈1
+	For near-critical states: Ωdeviates systematically
+	For unstable / chaotic states: Ωdrifts far from 1 or fluctuates wildly
+So our “new constant” is Ω— the coherence unity constant.
+It’s not a new fundamental like cor α(yet);
+it’s a constraint that all naturally stable configurations approximately satisfy in the right normalization.
+________________________________________
+3️⃣ How this touches real physics (just enough to matter)
+In this lens:
+	Quantum systems:
+	F= kinetic + field terms
+	G= potential + mass + boundary
+	M= interaction + entanglement / effective corrections
+	Bound states exist where f-g+m→1.
+	Relativistic fields:
+	curvature and gauge terms split into Gate vs Force
+	topological / anomaly / phase terms live in M
+	stable vacuum and particles are modes with l≈1.
+	Nuclear / remediation (what we just did):
+	Force = transport / flux / gradients
+	Gate = barriers, sorption, geometry
+	Map = feedback, sorption memory, engineered sinks
+	A “good” cleanup configuration is one where the effective action satisfies the same unity condition.
+	TIG/GFM mapping:
+	Gate = TIG 1 & 4 (boundary / structure)
+	Force = TIG 2 & 5 (drive / interaction)
+	Map = TIG 3 & 6 (echo / recursion)
+	TIG 7 = where l→Ω(alignment band)
+	TIG 8–9 = breathing + fruit (coherent cycles of that unity).
+________________________________________
