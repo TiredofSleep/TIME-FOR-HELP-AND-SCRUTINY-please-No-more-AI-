@@ -1,0 +1,8 @@
+{
+  "center": "T=0, P=0, W\u2208[0,1]",
+  "edge": 0.24285714285714288,
+  "criterion": "S_star",
+  "confidence": 0.9933,
+  "meets_91": true,
+  "beyond_edge": "Incoherence / Collapse / No Recovery"
+}
