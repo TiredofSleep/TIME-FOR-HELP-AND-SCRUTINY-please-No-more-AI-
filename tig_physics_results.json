@@ -1,0 +1,47 @@
+{
+  "test_1_structure": {
+    "system_s": 0.2661527914115573,
+    "bonds": 0,
+    "total_bonds": 658,
+    "triads": 213,
+    "self_reproduction": 205,
+    "above_threshold_pct": 0.0
+  },
+  "test_2_healing": {
+    "pre_chaos_s": 0.2744774308751492,
+    "post_chaos_s": 0.2744774308751492,
+    "recovered_s": 0.2661527914115573,
+    "recovery_ticks": 1
+  },
+  "test_3_propagation": {
+    "micro_avg": 0.35174094282071944,
+    "system": 0.2587978366025899,
+    "efficiency_pct": 73.57626170192472
+  },
+  "test_4_spine": {
+    "values": {
+      "VOID": 0.001,
+      "LATTICE": 0.008760983721069322,
+      "COUNTER": 0.004402407674565075,
+      "PROGRESS": 0.9968868985354478,
+      "COLLAPSE": 0.00777186869122512,
+      "BALANCE": 0.2762327492249921,
+      "CHAOS": 0.0056702838715825465,
+      "HARMONY": 0.03162277660168379,
+      "BREATH": 0.7175499041518596,
+      "RESET": 0.714
+    },
+    "progress_near_1": true,
+    "reset_near_tstar": true,
+    "void_near_0": true
+  },
+  "test_5_unification": {
+    "domain_cv": 0.29241715469793783,
+    "convergence": "MODERATE"
+  },
+  "test_6_chaos": {
+    "tig_mean_s": 0.2618926904500994,
+    "base_mean_s": 0.12559332826933323,
+    "advantage_pct": 108.52436515455184
+  }
+}
